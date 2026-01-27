@@ -78,7 +78,7 @@ Product Discovery, PMF Validation, User Research, User Segmentation, Jobs-to-be-
 - Worked on products like SelfKey Digital Identity Wallet, Selfkey Staking, SelfKey Marketplace, KeyFi DeFi Aggregator.
 
 
-#### Consensys/ Alethio - Head of Design
+#### Consensys / Alethio - Head of Design
 ###### July 2018 - May 2020
 
 - Created a coherent and seamless experience for the main website's visitors, while giving a clear and simple journey to the potential clients of our company's tools.
