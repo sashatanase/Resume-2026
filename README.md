@@ -3,7 +3,7 @@ Sasha Tanase Luca
 ### Product Leader | Web3 | PMF Discovery & Strategy
 ![Sasha](https://github.com/sashatanase/Resume-2026/blob/main/Sasha%20Luca%20BW%20Small.png)
 
-[Linkedin ↗](https://www.linkedin.com/in/sasha-tanase-luca-b5190583/) | Website
+[Linkedin ↗](https://www.linkedin.com/in/sasha-tanase-luca-b5190583/) | Website | [Twitter ↗](https://x.com/sasha_tanase)
 
 I’m Sasha Tanase Luca, a product leader who works at the intersection of discovery, research, and complex web3 systems (Ethereum and Bitcoin). I focus on finding and strengthening Product-Market Fit by digging deep into real user needs and translating those insights into clear product decisions. My work blends qualitative and quantitative research, customer value definition, and practical roadmap shaping. I’m at my best when I’m aligning teams around evidence and real data, clarifying what truly matters, and pushing for outcomes that serve both users and stakeholders. **To me, a successful product is one that balances customer needs with business goals, and proves its worth through real adoption.**
 
