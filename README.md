@@ -1,14 +1,15 @@
 Sasha Tanase Luca
 =============
 ### Product Leader | Web3 | PMF Discovery & Strategy
-Linkedin | Website
-Headshot
-<br/>
+![Sasha](https://github.com/sashatanase/Resume-2026/blob/main/Sasha%20Luca%20BW%20Small.png)
+
+[Linkedin ↗](https://www.linkedin.com/in/sasha-tanase-luca-b5190583/) | Website
+
 I’m Sasha Tanase Luca, a product leader who works at the intersection of discovery, research, and complex web3 systems (Ethereum and Bitcoin). I focus on finding and strengthening Product-Market Fit by digging deep into real user needs and translating those insights into clear product decisions. My work blends qualitative and quantitative research, customer value definition, and practical roadmap shaping. I’m at my best when I’m aligning teams around evidence and real data, clarifying what truly matters, and pushing for outcomes that serve both users and stakeholders. **To me, a successful product is one that balances customer needs with business goals, and proves its worth through real adoption.**
-<br/>
+
 
 ### Executive Summary
-Product leader with 7+ years of experience in Web3, specializing in discovery-driven roadmapping, PMF validation, and cross-functional execution. Skilled at translating research insights into actionable product strategy, shaping roadmaps, and aligning stakeholders to deliver products users love. Experienced in Ethereum, Bitcoin, and DeFi products, with a track record of identifying high-fit user segments and driving measurable adoption.
+Product leader with **7+ years of experience in Web3**, specializing in discovery-driven roadmapping, PMF validation, and cross-functional execution. Skilled at translating research insights into actionable product strategy, shaping roadmaps, and aligning stakeholders to deliver products users love. Experienced in Ethereum, Bitcoin, and DeFi products, with a track record of identifying high-fit user segments and driving measurable adoption.
 
 ### Core Skills Applied
 Product Discovery, PMF Validation, User Research, User Segmentation, Jobs-to-be-Done Analysis, Data-informed Decision Making, Roadmap Prioritization, Product Requirement Definition, KPI Definition & Measurement, Analytics & On-chain Metrics, Cross-functional Team Leadership, Stakeholder Alignment, Insight Repository Design & Management, Go-to-Market Collaboration, Iterative Validation, Messaging & Positioning Strategy
@@ -18,6 +19,7 @@ Product Discovery, PMF Validation, User Research, User Segmentation, Jobs-to-be-
 ### Experience
 #### Mezo Network - Research Manager and Product Strategy
 ##### July 2024- July 2025
+[Mezo Network ↗](https://mezonetwork.io)
 - Led PMF-focused research for Mezo Network across discovery, segmentation, and value proposition validation. The research identified the exact user segment that consistently responded to Mezo Borrow, while invalidating several lower-fit segments. This sharpened product focus and helped concentrate efforts on the top 35–40% of users most likely to adopt and retain.
 
 - Worked in close partnership with the Product Managers responsible for Mezo Borrow and Mezo Onboarding, translating research findings into concrete roadmap decisions. These insights directly influenced prioritization and helped elevate Mezo Borrow as the flagship product of the Mezo Network, driving the majority of early product engagement within two quarters.
@@ -30,6 +32,7 @@ Product Discovery, PMF Validation, User Research, User Segmentation, Jobs-to-be-
 
 #### Threshold Network - Product Design and Research Lead
 ##### September 2021 - July 2024
+[Threshold Network ↗](https://www.threshold.network/)
 - Led post-merger discovery and stakeholder alignment following the Keep and NuCypher merge. Ran workshops and interviews to define shared product direction and brand identity, resulting in Brand Personality Guidelines, Target User Profiles, and validated product hypotheses. This work reduced roadmap rework and strategic misalignment by approximately 25%.
 
 - Conducted deep research into Threshold’s core target audience: Bitcoin holders already exposed to DeFi. Validated assumptions around risk tolerance, yield expectations, and trust barriers, narrowing focus to higher-fit segments and contributing to a roughly 20% increase in early feature adoption across staking and bridging experiences.
@@ -48,10 +51,14 @@ Product Discovery, PMF Validation, User Research, User Segmentation, Jobs-to-be-
 
 #### Keep Network - Product Design and Research Lead 
 ##### April 2021 - September 2021
+[Keep Network ↗](https://keep.network/)
 
 - Ran deep discovery on Node Operator behavior and uncovered a new high-value segment: Staking Providers (B2B). This led to better documentation, clearer node-setup guides, and tighter communication on client-code updates reducing friction across the entire setup and node maintenance journey. These changes drove a 15% increase in active Node Operators and cut setup drop-offs by 30%. This was achieved through multiple validation cycles.
+
 - Led discovery and validation for Coverage Pools, shaping the feature set and PMF strategy. User interviews revealed that many token holders wanted a lower-risk, passive-income option with less slashing. Acting on this insight, we designed a feature that tapped into idle tokens, ultimately locking 33% of the total supply and driving stronger engagement with network security.
+
 - Led the end-to-end creation of Coverage Pools (before AAVE), the first feature of its kind in Ethereum DeFi at the time. Because the concept was completely new, I focused on transparency, clear guidance, and a simple 3-step mental model to help users understand how it worked. I ran deep discovery interviews and usability tests centered on learnability and recall. By the end of testing, 87% of participants accurately remembered the full 3-step flow, confirming strong comprehension of a complex new feature.
+
 - Partnered with Product Marketing to shape GTM strategy and update the website and in-app messaging for new feature launches. These changes improved clarity, strengthened trust signals, and drove a 22% lift in early-stage adoption within the first quarter from the Coverage Pool feature launch.
 
 
@@ -88,4 +95,12 @@ Product Discovery, PMF Validation, User Research, User Segmentation, Jobs-to-be-
 
 - Delivered high fidelity screens and specifications to the developers.
 
-- Worked on products like Alethio Block Explorer, Alethio API, Alethio Monitoring (two versions), Alethio Design System and  other functionalities of the Ethereum Data Analytics Platform. 
+- Worked on products like Alethio Block Explorer, Alethio API, Alethio Monitoring (two versions), Alethio Design System and  other functionalities of the Ethereum Data Analytics Platform.
+------
+### Selected Talks & Presentations
+- [Designing for Trust in Web3: Lessons from the User Research Field](https://www.youtube.com/watch?v=Wndk1Ic5t8U) - EthCC[7] Cannes, 2025
+- [Elevating Developer Experience (DX) in web3 - a framework](https://www.youtube.com/watch?v=ZPoqwAbMWTE) - EthCC[6], Paris, 2023 - collaboration with Daniel Luca
+- [The Future of Web3UX - a Paradigm Shift for a Better Collaboration between Design and Development](https://www.youtube.com/watch?v=gOiHwmL0VUg) DevCon VI Bogota, 2022
+- [Accessibility: Ethereum for LITERALLY everyone!](https://www.youtube.com/watch?v=c24eAsxi3ZM) - EthCC[4]Paris, 2022
+- [That never even crossed my mind! How to spot & fix your cognitive biases](https://www.youtube.com/watch?v=O7ygnEtReDs) - EthCC[3] 2020, Paris
+- [User Research: How to Get Out of Our Bubbles by Talking to Users](https://www.youtube.com/watch?v=52SP-Upd4es) - DevCon V Osaka, 2019 - collaboration with Georgia Rakusen 
