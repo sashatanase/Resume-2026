@@ -103,4 +103,7 @@ Product Discovery, PMF Validation, User Research, User Segmentation, Jobs-to-be-
 - [The Future of Web3UX - a Paradigm Shift for a Better Collaboration between Design and Development](https://www.youtube.com/watch?v=gOiHwmL0VUg) DevCon VI Bogota, 2022
 - [Accessibility: Ethereum for LITERALLY everyone!](https://www.youtube.com/watch?v=c24eAsxi3ZM) - EthCC[4]Paris, 2022
 - [That never even crossed my mind! How to spot & fix your cognitive biases](https://www.youtube.com/watch?v=O7ygnEtReDs) - EthCC[3] 2020, Paris
-- [User Research: How to Get Out of Our Bubbles by Talking to Users](https://www.youtube.com/watch?v=52SP-Upd4es) - DevCon V Osaka, 2019 - collaboration with Georgia Rakusen 
+- [User Research: How to Get Out of Our Bubbles by Talking to Users](https://www.youtube.com/watch?v=52SP-Upd4es) - DevCon V Osaka, 2019 - collaboration with Georgia Rakusen
+
+### Education 
+**Master Degree of Architecture (M.Arch)** - Ion Mincu University of Architecture and Urbanism, Bucharest, 2005-2011
