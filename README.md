@@ -24,7 +24,7 @@ Product Discovery, PMF Validation, PMF Validation, Jobs-to-be-Done Analysis, Use
 
 - Worked in close partnership with the Product Managers responsible for Mezo Borrow and Mezo Onboarding, translating research findings into concrete roadmap decisions. These insights directly influenced prioritization and helped elevate Mezo Borrow as the flagship product of the Mezo Network, driving the majority of early product engagement within two quarters.
 
-- Coordinated cross-functional teams across Product, Design, Engineering, and Marketing, and built a centralized insight repository used across the company. The repository became the single source of truth for research, supporting 15+ stakeholders. The repository streamlined access to research, reduced duplicated efforts, and improved cross-team decision-making.
+- Coordinated cross-functional teams across Product, Design, Engineering, and Marketing, and built a centralized insight repository used across the company. The repository became the single source of truth for research, supporting 15+ stakeholders. The repository streamlined access to research, reduced duplicated efforts, and improved cross-team decision-making. [Repository can be seen here](https://coda.io/d/_d25I9D9N3mA/Insights-Repo_suDioNla)
 
 - Guided product teams with actionable insights that shaped roadmap sequencing and scope. Research inputs informed roadmap decisions related to onboarding, borrowing flows, and user education, shortening validation cycles and reducing misaligned initiatives.
 
@@ -45,7 +45,7 @@ Product Discovery, PMF Validation, PMF Validation, Jobs-to-be-Done Analysis, Use
 
 - Proposed and validated a third major iteration of the tBTC bridge based on user insights, introducing a dual-experience model with a fast consumer bridge and a slower, yield-bearing LP bridge. While not shipped, the proposal influenced internal strategy discussions around liquidity provisioning, scalability, and perceived PMF.
 
-- Improved the tBTC Node Operator experience by redesigning client-code UX and documentation. Created a custom research methodology of which I am very proud, by combining diary studies and interviews to evaluate real-world setup and maintenance workflows, reducing setup-related issues by approximately 30% and improving operator-reported clarity.
+- Improved the tBTC Node Operator experience by redesigning client-code UX and documentation. Created a custom research methodology of which I am very proud, by combining diary studies and interviews to evaluate real-world setup and maintenance workflows, reducing setup-related issues by approximately 30% and improving operator-reported clarity. [Study here](https://docs.google.com/presentation/d/1JQfnICfp-pXvfU6S1CFXqmF4Gh7RdVi-pBVUFOxPM8s/edit?usp=sharing)
 
 - Partnered with the CEO on a service blueprint initiative to optimize internal workflows across product, engineering, research, and operations. This work clarified ownership, reduced cross-team friction, and improved delivery speed by an estimated 15–20%.
 
